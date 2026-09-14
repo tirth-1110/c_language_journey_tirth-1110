@@ -45,8 +45,6 @@ I'll flip each **Status** to ✅ as I finish a chapter, so this table alone tell
 
 ## 📅 Daily Progress Log
  
-🔥 **Day Streak:** 1
- 
 *   **Day 01** 🚀
     *   **Completed:** *chapter_0 — Introduction*.
     *   **Achieved:** Learned what programming and C are, why C is used, and set up VS Code with the MinGW GCC compiler.
