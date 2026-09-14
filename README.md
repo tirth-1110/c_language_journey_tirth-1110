@@ -43,6 +43,19 @@ I'll flip each **Status** to ✅ as I finish a chapter, so this table alone tell
 
 ---
 
+## 📅 Daily Progress Log
+ 
+🔥 **Day Streak:** 1
+ 
+*   **Day 01** 🚀
+    *   **Completed:** *chapter_0 — Introduction*.
+    *   **Achieved:** Learned what programming and C are, why C is used, and set up VS Code with the MinGW GCC compiler.
+    *   **Code Practice:** Wrote and compiled my first C program (`01_first.c`) using `printf()`.
+*   **Day [Counting...]** ⏳ 
+    *   **Next Milestone:** *chapter_1 — Variables, Constants & Keywords*
+
+---
+
 ## 🚀 How This Repository Helps Me
 
 Building and keeping this repository updated helps me in three major ways:
